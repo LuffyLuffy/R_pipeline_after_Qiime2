@@ -59,5 +59,5 @@ Try to collect or wirte codes including most common analysis in microbial divers
 56.plspm_SEM.r<br />
 57.piecewiseSEM.r<br />
 58.lefse_in_R.r<br />
-59.sourcetracker_test<br />![image](https://user-images.githubusercontent.com/15357865/151652334-ab33f39f-fb63-411c-807b-a4fcea9a2658.png)
+59.sourcetracker_test<br />
 
