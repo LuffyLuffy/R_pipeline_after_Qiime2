@@ -1,7 +1,8 @@
 # R_pipeline_after_Qiime2
 Try to collect or wirte codes including most common analysis in microbial diversity study after qiime2.
 ###a course is recorded 
-##buy link:https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-8693264947.16.5aaf353cu2hvs0&id=668092090728
+##buy link:https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-8693264947.16.5aaf353cu2hvs0&id=668092090728 
+<br />
 1.diversity_rarefaction.r<br />
 2.subsampling_to_same_depth.r<br />
 3.diversity_index.r<br />
